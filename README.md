@@ -1,0 +1,1 @@
+# Akili_YZ_Platformu
