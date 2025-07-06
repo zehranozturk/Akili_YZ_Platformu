@@ -50,14 +50,18 @@ Sprint Retrospective
  Bir sonraki sprint’te uygulama geliştirme önceliklendirilecek.
 
 -Kararlaştırılan Görev Dağılımı
-Rümeysa Acar
+*Rümeysa Acar
 Scrum yönetimi, toplantı koordinasyonu
 Rakip araştırması, temel kullanıcı personası oluşturma
-Zehra Nur Öztürk
+
+*Zehra Nur Öztürk
 Proje amacı belgesi hazırlama, Sprint 1 raporlaması
-Muhammed Selim Özlen
+
+*Muhammed Selim Özlen
 Dataset araştırması, veri kaynaklarının belirlenmesi
-Hatice Yalçın
+
+*Hatice Yalçın
 Kullanıcı akış diyagramı
-Mert Can Obalı
+
+*Mert Can Obalı
 Kullanıcı akış diyagramı
